@@ -1,0 +1,13 @@
+selenium
+beautifulsoup4
+pandas
+xlsxwriter
+scikit-learn
+numpy
+openpyxl
+requests
+matplotlib
+mysql-connector-python
+python-dotenv
+nba_api
+xgboost

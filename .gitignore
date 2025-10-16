@@ -1,0 +1,13 @@
+.venv/
+.env
+.DS_Store
+
+# CSV / Model files
+projections.csv
+model.pkl
+test_df.csv
+train_df.csv
+
+# Python
+compare_projects.py
+kmeans.py
