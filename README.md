@@ -21,7 +21,6 @@ Trains the model, performs backtesting, and exports the model using pickle.
 Loads the pickled model, feeds it production data, compares predictions against DraftKings lines for reference, and exports results to a CSV file.
 
 ## Data Sources that I used
-- NBA API for player/team statistics
-- DraftKings for betting props
-- Injury reports and game logs
-- Traditional and advanced metrics
+- NBA API: Player and team statistics, box scores, usage rates, shot charts, and playstyle data
+- DraftKings: Betting props
+- ESPN: Injury reports
