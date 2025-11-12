@@ -1,6 +1,6 @@
 # NBA Performance Prediction Model
 ## Overview
-A machine learning model that uses a XGBoost Regressor to predict NBA player scoring performances.
+A machine learning model that uses an XGBoost Regressor to predict NBA player scoring performances.
 
 ## Purpose
 As an avid basketball watcher, I’ve always been fascinated by how players can explode for 30/40/50-point games. Sure. Luka Dončić once went for a career-high 73 points, but why? Was it because the undersized Hawks played poor defense? Or did he have extra motivation after being traded on draft day for Trae Young?
